@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "./static/css/main.9478df82.chunk.css",
-    "main.js": "./static/js/main.434616d9.chunk.js",
-    "main.js.map": "./static/js/main.434616d9.chunk.js.map",
+    "main.js": "./static/js/main.ebfb0b6e.chunk.js",
+    "main.js.map": "./static/js/main.ebfb0b6e.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.90028b1c.js",
     "runtime-main.js.map": "./static/js/runtime-main.90028b1c.js.map",
     "static/css/2.546d0089.chunk.css": "./static/css/2.546d0089.chunk.css",
@@ -30,7 +30,7 @@
     "static/media/logo-yellow.249beb6b.svg": "./static/media/logo-yellow.249beb6b.svg",
     "static/media/logo.c73645d6.svg": "./static/media/logo.c73645d6.svg",
     "static/media/mahin.8e999068.jpeg": "./static/media/mahin.8e999068.jpeg",
-    "static/media/man-smoking.45247826.jpg": "./static/media/man-smoking.45247826.jpg",
+    "static/media/man-smoking.56a3fe2d.jpg": "./static/media/man-smoking.56a3fe2d.jpg",
     "static/media/mobile-close.1ad1aa67.svg": "./static/media/mobile-close.1ad1aa67.svg",
     "static/media/mobile-menu.61f79789.svg": "./static/media/mobile-menu.61f79789.svg",
     "static/media/partner01.7d2b415e.svg": "./static/media/partner01.7d2b415e.svg",
@@ -39,8 +39,8 @@
     "static/media/partner04.ae8b0929.svg": "./static/media/partner04.ae8b0929.svg",
     "static/media/partner05.942eb9b2.svg": "./static/media/partner05.942eb9b2.svg",
     "static/media/partner06.b5ae4178.svg": "./static/media/partner06.b5ae4178.svg",
-    "static/media/pen-with-apple.7ec4ce08.jpg": "./static/media/pen-with-apple.7ec4ce08.jpg",
-    "static/media/pen-with-cann.6b11c9d2.jpg": "./static/media/pen-with-cann.6b11c9d2.jpg",
+    "static/media/pen-with-apple.1512fb6d.jpg": "./static/media/pen-with-apple.1512fb6d.jpg",
+    "static/media/pen-with-cann.3e7e7979.jpg": "./static/media/pen-with-cann.3e7e7979.jpg",
     "static/media/pod-2.fd7c741e.png": "./static/media/pod-2.fd7c741e.png",
     "static/media/robin.8789ad36.jpeg": "./static/media/robin.8789ad36.jpeg",
     "static/media/sparaggon.6fccf5d2.jpg": "./static/media/sparaggon.6fccf5d2.jpg",
@@ -51,6 +51,6 @@
     "static/css/2.546d0089.chunk.css",
     "static/js/2.7173f7f0.chunk.js",
     "static/css/main.9478df82.chunk.css",
-    "static/js/main.434616d9.chunk.js"
+    "static/js/main.ebfb0b6e.chunk.js"
   ]
 }
