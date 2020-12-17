@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "./static/css/main.c522351e.chunk.css",
-    "main.js": "./static/js/main.20c4b382.chunk.js",
-    "main.js.map": "./static/js/main.20c4b382.chunk.js.map",
+    "main.js": "./static/js/main.19cfbb07.chunk.js",
+    "main.js.map": "./static/js/main.19cfbb07.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.90028b1c.js",
     "runtime-main.js.map": "./static/js/runtime-main.90028b1c.js.map",
     "static/css/2.79b7399d.chunk.css": "./static/css/2.79b7399d.chunk.css",
@@ -84,7 +84,6 @@
     "static/media/9.07c83559.png": "./static/media/9.07c83559.png",
     "static/media/9.c7302f80.png": "./static/media/9.c7302f80.png",
     "static/media/9.fd218dfa.png": "./static/media/9.fd218dfa.png",
-    "static/media/analysis.238b21e8.jpg": "./static/media/analysis.238b21e8.jpg",
     "static/media/arrow.381aec5b.svg": "./static/media/arrow.381aec5b.svg",
     "static/media/arrow.69aeab45.svg": "./static/media/arrow.69aeab45.svg",
     "static/media/battery-catelogue.88fcbaa9.png": "./static/media/battery-catelogue.88fcbaa9.png",
@@ -94,11 +93,8 @@
     "static/media/contact-info-icon3.6dba31f5.svg": "./static/media/contact-info-icon3.6dba31f5.svg",
     "static/media/dribble.2cfda77c.svg": "./static/media/dribble.2cfda77c.svg",
     "static/media/facebook.0d1ed68e.svg": "./static/media/facebook.0d1ed68e.svg",
-    "static/media/filling.6131867c.jpg": "./static/media/filling.6131867c.jpg",
     "static/media/hero-image.3dd52256.png": "./static/media/hero-image.3dd52256.png",
-    "static/media/logo-yellow.249beb6b.svg": "./static/media/logo-yellow.249beb6b.svg",
     "static/media/logo.c73645d6.svg": "./static/media/logo.c73645d6.svg",
-    "static/media/man-smoking.ad545418.jpg": "./static/media/man-smoking.ad545418.jpg",
     "static/media/mobile-close.1ad1aa67.svg": "./static/media/mobile-close.1ad1aa67.svg",
     "static/media/mobile-menu.61f79789.svg": "./static/media/mobile-menu.61f79789.svg",
     "static/media/partner01.7d2b415e.svg": "./static/media/partner01.7d2b415e.svg",
@@ -109,6 +105,12 @@
     "static/media/partner06.b5ae4178.svg": "./static/media/partner06.b5ae4178.svg",
     "static/media/pen-disposable-catelogue.b95522d0.png": "./static/media/pen-disposable-catelogue.b95522d0.png",
     "static/media/pod-disposable-catelogue.427b91f3.png": "./static/media/pod-disposable-catelogue.427b91f3.png",
+    "static/media/slider-1-mobile.bb7c4e38.png": "./static/media/slider-1-mobile.bb7c4e38.png",
+    "static/media/slider-1.87b7e410.png": "./static/media/slider-1.87b7e410.png",
+    "static/media/slider-2-mobile.07311364.png": "./static/media/slider-2-mobile.07311364.png",
+    "static/media/slider-2.02d3ce65.png": "./static/media/slider-2.02d3ce65.png",
+    "static/media/slider-3-mobile.0e4f1031.png": "./static/media/slider-3-mobile.0e4f1031.png",
+    "static/media/slider-3.88a0fe5b.png": "./static/media/slider-3.88a0fe5b.png",
     "static/media/twitter.9d138e5c.svg": "./static/media/twitter.9d138e5c.svg",
     "static/media/vaporizer-catelogue.bb65a69a.png": "./static/media/vaporizer-catelogue.bb65a69a.png"
   },
@@ -117,6 +119,6 @@
     "static/css/2.79b7399d.chunk.css",
     "static/js/2.e810decf.chunk.js",
     "static/css/main.c522351e.chunk.css",
-    "static/js/main.20c4b382.chunk.js"
+    "static/js/main.19cfbb07.chunk.js"
   ]
 }
