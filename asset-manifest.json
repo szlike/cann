@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "./static/css/main.f7bfc247.chunk.css",
-    "main.js": "./static/js/main.af0f410a.chunk.js",
-    "main.js.map": "./static/js/main.af0f410a.chunk.js.map",
+    "main.js": "./static/js/main.4f40d844.chunk.js",
+    "main.js.map": "./static/js/main.4f40d844.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.90028b1c.js",
     "runtime-main.js.map": "./static/js/runtime-main.90028b1c.js.map",
     "static/css/2.79b7399d.chunk.css": "./static/css/2.79b7399d.chunk.css",
@@ -106,12 +106,13 @@
     "static/media/partner06.b5ae4178.svg": "./static/media/partner06.b5ae4178.svg",
     "static/media/pen-disposable-catelogue.b95522d0.png": "./static/media/pen-disposable-catelogue.b95522d0.png",
     "static/media/pod-disposable-catelogue.427b91f3.png": "./static/media/pod-disposable-catelogue.427b91f3.png",
-    "static/media/slider-1-mobile.bb7c4e38.png": "./static/media/slider-1-mobile.bb7c4e38.png",
+    "static/media/slider-1-mobile.e0d7873b.png": "./static/media/slider-1-mobile.e0d7873b.png",
     "static/media/slider-1.a4ee90c8.png": "./static/media/slider-1.a4ee90c8.png",
-    "static/media/slider-2-mobile.07311364.png": "./static/media/slider-2-mobile.07311364.png",
+    "static/media/slider-2-mobile.14fe6faf.png": "./static/media/slider-2-mobile.14fe6faf.png",
     "static/media/slider-2.7fa5d814.png": "./static/media/slider-2.7fa5d814.png",
-    "static/media/slider-3-mobile.0e4f1031.png": "./static/media/slider-3-mobile.0e4f1031.png",
+    "static/media/slider-3-mobile.a69eb9cc.png": "./static/media/slider-3-mobile.a69eb9cc.png",
     "static/media/slider-3.9f572ac7.png": "./static/media/slider-3.9f572ac7.png",
+    "static/media/slider-4-mobile.7f57f2ce.png": "./static/media/slider-4-mobile.7f57f2ce.png",
     "static/media/slider-4.a5964029.png": "./static/media/slider-4.a5964029.png",
     "static/media/supply-chain.8618741c.png": "./static/media/supply-chain.8618741c.png",
     "static/media/technical-support.ded4e9fa.png": "./static/media/technical-support.ded4e9fa.png",
@@ -123,6 +124,6 @@
     "static/css/2.79b7399d.chunk.css",
     "static/js/2.f5dfd5eb.chunk.js",
     "static/css/main.f7bfc247.chunk.css",
-    "static/js/main.af0f410a.chunk.js"
+    "static/js/main.4f40d844.chunk.js"
   ]
 }
